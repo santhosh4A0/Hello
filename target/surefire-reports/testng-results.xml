@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="61" started-at="2019-06-02T10:25:44Z" finished-at="2019-06-02T10:25:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="61" started-at="2019-06-02T10:25:44Z" finished-at="2019-06-02T10:25:44Z">
+      <class name="com.paru.parul.FerozTest">
+        <test-method status="PASS" signature="boole()[pri:0, instance:com.paru.parul.FerozTest@edf4efb]" name="boole" duration-ms="16" started-at="2019-06-02T10:25:44Z" finished-at="2019-06-02T10:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boole -->
+      </class> <!-- com.paru.parul.FerozTest -->
+      <class name="com.paru.parul.App1Test">
+        <test-method status="PASS" signature="peru()[pri:1, instance:com.paru.parul.App1Test@7f690630]" name="peru" duration-ms="1" started-at="2019-06-02T10:25:44Z" finished-at="2019-06-02T10:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peru -->
+      </class> <!-- com.paru.parul.App1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
